@@ -9,6 +9,7 @@
 ## Built with
 
 - Angular 6
+- Bootstrap 4.1.2
 
 ## Author
 
